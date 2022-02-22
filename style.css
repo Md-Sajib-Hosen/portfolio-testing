@@ -30,3 +30,9 @@ h1 {
   font-weight: 700;
   border-radius: 5px;
 }
+.second-section {
+  background-image: url(images/dream-bg.png);
+  display: flex;
+  background-repeat: no-repeat;
+  background-position: right;
+}
